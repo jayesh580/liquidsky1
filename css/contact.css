@@ -1,0 +1,47 @@
+.prtcl_cnt{
+    margin-top: 0%; 
+    /* height: 100vh; */
+    background: url(../images/part.jpg) no-repeat center center;
+}
+.contact-form{
+    padding-top: 50px;
+}
+.contact-form input{
+    border-radius: 20px;
+    border: 0;
+    height: 40px;
+    background-color: #0077B3;
+}
+.contact-form h2{
+    color:white;
+    font-family: sqr721b;
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+.contact-form p{
+    padding-top: 40px;
+    color:white;
+    text-align: center;
+    font-family: verdana;
+    font-size: 17px;
+    padding-bottom: 50px;
+}
+.contact-form textarea{
+    border-radius: 20px;
+    border: 0;
+    background-color: #0077B3;
+}
+.button123 button{
+    border-radius: 20px;
+    background-color: #007DFF;
+}
+.form-control::placeholder {
+    font-family: verdana;
+    color: #fff;
+}
+.form-control:focus {
+    color: #fff;
+    background-color: #0077B3;
+    border-color: #00b2fd;
+    outline: 0;
+}
